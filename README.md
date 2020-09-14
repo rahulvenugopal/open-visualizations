@@ -8,33 +8,7 @@ van Langen, J. (2020). Open-visualizations in R and Python.
 https://github.com/jorvlan/open-visualizations
 ```
 
-This repository has been cited by:
-``` 
-- Genc, S., Malpas, C. B., Gulenc, A., Sciberras, E., Efron, D., Silk, T. J., & Seal, M. L. (2020). 
-    Longitudinal patterns of white matter fibre density and morphology in children 
-    is associated with age and pubertal stage. 
-    Developmental Cognitive Neuroscience, 100853. https://doi.org/10.1016/j.dcn.2020.100853
-- Mosley, P. E., Robinson, K., Coyne, T., Silburn, P., Barker, M. S., Breakspear, M., ... & Perry, A. (2020). 
-    Subthalamic Deep Brain Stimulation Identifies Frontal Networks Supporting Initiation, 
-    Inhibition and Strategy Use in Parkinson's Disease: Initiation and Inhibition after STN-DBS for PD. 
-    NeuroImage, 117352. https://doi.org/10.1016/j.neuroimage.2020.117352
-- Genc, S., et al., (2020). Longitudinal white matter development in child-ren is associated with puberty, 
-    attentional difficulties and mental health. 
-    bioRxiv, 607671. https://www.biorxiv.org/content/10.1101/607671v2
-- Wynn J., et al., (2020). Encoding and retreival eye movements mediateage differences in pattern completion. 
-    PsyArXiv. https://psyarxiv.com/mdx3f/
-- Ehlers, M., et al., (2020). Natural variations in brain morphology do not account for inter-individual 
-    differences in defensive responding during fear acquisition training and extinction. 
-    PsyArXiv. https://psyarxiv.com/q2kyf/
-- Uhlig, M., & Gaebler, M. (2020, July 27). Rapid brain changes following acute psychosocial stress. 
-    Retrieved from osf.io/vw2zb
-- Bejjani, C., & Egner, T. (2020). How reinforcement shapes the binding of stimulus-control associations. 
-    PsyArXiv. https://psyarxiv.com/cdpxh/
-- Wiedemann (2020). lcsm: Univariate and Bivariate Latent Change Score Modeling.
-    https://cran.r-project.org/web/packages/lcsm/vignettes/v0-longitudinal-plots.html
-```
-
-Visualizations based on best open science practices.
+### Added rain_rain_come_again.R which is a script version of notebook [14.09.2020]
 # Made in R
 ## Taken from the R package development version
 ![Raincloud example](R/figure5_1.png)
