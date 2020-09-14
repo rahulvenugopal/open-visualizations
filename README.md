@@ -10,17 +10,29 @@ https://github.com/jorvlan/open-visualizations
 
 ### Added rain_rain_come_again.R which is a script version of notebook [14.09.2020]
 # Made in R
-## Taken from the R package development version
-![Raincloud example](R/figure5_1.png)
-## Taken from the R package development version
-![Raincloud example](R/figure3_1.png)
-## Taken from the R package development version
-![Raincloud example](R/figure4_1.png)
-## Taken from the R package development version
-![Raincloud example](R/figure10e.png)
-![Raincloud example](R/figure10d.png)
-![Raincloud example](R/figure5c.png)
-![Raincloud example2](R/figure6.png)
+## Plots from rain_rain_come_again.R
+![Repeated measures individual datapoints](https://github.com/rahulvenugopal/open-visualizations/blob/master/R/f1.png)
+![Repeated measures with connecting lines](https://github.com/rahulvenugopal/open-visualizations/blob/master/R/f2.png)
+![Repeated measures with jitter and connections](https://github.com/rahulvenugopal/open-visualizations/blob/master/R/f3.png)
+![Repeated measures with jittered datapoints and connections](https://github.com/rahulvenugopal/open-visualizations/blob/master/R/f4.png)
+
+![Repeated measures with box- and violin plots](https://github.com/rahulvenugopal/open-visualizations/blob/master/R/f5.png)
+
+![Repeated measures with box- and violin plots](https://github.com/rahulvenugopal/open-visualizations/blob/master/R/f5b.png)
+
+![Repeated measures with box- and violin plots](https://github.com/rahulvenugopal/open-visualizations/blob/master/R/f5c.png)
+
+![ Repeated measures with box- and violin plots](https://github.com/rahulvenugopal/open-visualizations/blob/master/R/f6.png)
+![Repeated measures with box- and violin plots and means + ci](https://github.com/rahulvenugopal/open-visualizations/blob/master/R/f7.png)
+![2 x 2 Repeated measures with box- and violin plots](https://github.com/rahulvenugopal/open-visualizations/blob/master/R/f8.png)
+
+![2 x 2 Repeated measures with box- and violin plots](https://github.com/rahulvenugopal/open-visualizations/blob/master/R/f9.png)
+![Repeated measures with jittered datapoints and connections](https://github.com/rahulvenugopal/open-visualizations/blob/master/R/f10.png)
+![Repeated measures with jittered datapoints and connections](https://github.com/rahulvenugopal/open-visualizations/blob/master/R/f11.png)
+![Repeated measures with jittered datapoints and connections](https://github.com/rahulvenugopal/open-visualizations/blob/master/R/f12.png)
+
+![Repeated measures with jittered datapoints and connections](https://github.com/rahulvenugopal/open-visualizations/blob/master/R/f13.png)
+![Repeated measures with jittered datapoints and connections](https://github.com/rahulvenugopal/open-visualizations/blob/master/R/f14.png)
 
 # Made in Python
 ![Example3](Python/tutorial_1/figure10.png)
